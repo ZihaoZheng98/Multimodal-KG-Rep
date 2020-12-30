@@ -12,6 +12,9 @@
 
 多模态信息抽取教程
 https://sites.google.com/view/acl-2020-multi-modal-ie
+多模态知识图谱构建
+https://suitclub.ischool.utexas.edu/IWKG_KDD2020/slides/Shih-Fu.pdf
+
 
 ## 研究组
 
