@@ -16,6 +16,8 @@
 https://sites.google.com/view/acl-2020-multi-modal-ie
 多模态知识图谱构建
 https://suitclub.ischool.utexas.edu/IWKG_KDD2020/slides/Shih-Fu.pdf
+多模态对话
+https://docs.google.com/presentation/d/11to5fJBltQuQ2E7ShM2XEIPKVjTUCOFgkWC7tXaelD0/edit#slide=id.g881f4928a0_0_5
 
 
 ## 研究组
