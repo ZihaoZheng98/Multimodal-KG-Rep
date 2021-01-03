@@ -7,6 +7,8 @@
 - [论文](#论文)
 - [优秀repo](#优秀repo)
 - [研究者](#研究者)
+- [workshop](#workshop)
+
 
 ## 教程
 
@@ -50,6 +52,14 @@ http://staff.ustc.edu.cn/~tongxu/
 http://www4.comp.polyu.edu.hk/~jing1li/
 
 http://www.lujiang.info/index.html
+
+
+## workshop
+https://alvr-workshop.github.io/
+
+https://languageandvision.github.io/
+
+
 
 
 
